@@ -1,4 +1,4 @@
-package com.qcl.blog3.user;
+package com.qcl.blog3.es;
 
 import org.elasticsearch.index.query.QueryBuilders;
 import org.springframework.beans.factory.annotation.Autowired;

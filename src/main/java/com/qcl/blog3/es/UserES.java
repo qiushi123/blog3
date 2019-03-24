@@ -1,4 +1,4 @@
-package com.qcl.blog3.user;
+package com.qcl.blog3.es;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;
